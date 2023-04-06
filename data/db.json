@@ -1,44 +1,9 @@
 {
   "todos": [
     {
-      "id": 1,
-      "title": "Hit the gym",
-      "done": false
-    },
-    {
-      "title": "Pay bills",
-      "done": true,
-      "id": 2
-    },
-    {
-      "title": "asa",
+      "title": "puasa",
       "done": false,
-      "id": 3
-    },
-    {
-      "title": "asas",
-      "done": false,
-      "id": 4
-    },
-    {
-      "title": "asasas",
-      "done": false,
-      "id": 5
-    },
-    {
-      "title": "aa",
-      "done": false,
-      "id": 6
-    },
-    {
-      "title": "asaaasas",
-      "done": false,
-      "id": 7
-    },
-    {
-      "title": "asa",
-      "done": false,
-      "id": 8
+      "id": 1
     }
   ]
 }
